@@ -1,6 +1,6 @@
 import React from 'react'
 
-const EditarCliente = () => {
+const EditarDepartamento = () => {
     return (
         <div>
             <h1>Editando</h1>
@@ -8,4 +8,4 @@ const EditarCliente = () => {
     )
 }
 
-export default EditarCliente
+export default EditarDepartamento
